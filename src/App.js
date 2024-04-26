@@ -25,7 +25,7 @@ function App() {
 
       <div className="container">
 
-        <h1>HRMIS ToDo's</h1>
+        <h1>Ankit's ToDo's</h1>
 
         <div className="top">
           <input
